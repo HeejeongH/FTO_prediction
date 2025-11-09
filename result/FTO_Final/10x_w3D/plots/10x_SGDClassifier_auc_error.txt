@@ -1,0 +1,3 @@
+Plot Type: auc
+Model: SGDClassifier
+Error: AUC plot not available for estimators with no predict_proba attribute.

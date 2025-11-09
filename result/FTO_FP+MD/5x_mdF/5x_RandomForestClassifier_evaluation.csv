@@ -1,0 +1,13 @@
+Accuracy,AUC,Recall,Prec.,F1,Kappa,MCC,Model,Type
+0.9565,0.9655,0.8421,0.8889,0.8649,0.839,0.8394,RandomForestClassifier,0
+0.9478,0.9879,0.8,0.8889,0.8421,0.811,0.8126,RandomForestClassifier,1
+0.9649,0.9895,0.8947,0.8947,0.8947,0.8737,0.8737,RandomForestClassifier,2
+0.9386,0.9651,0.7368,0.875,0.8,0.764,0.768,RandomForestClassifier,3
+0.9474,0.985,0.8421,0.8421,0.8421,0.8105,0.8105,RandomForestClassifier,4
+0.9474,0.9535,0.7895,0.8824,0.8333,0.8022,0.8039,RandomForestClassifier,5
+0.9386,0.9618,0.6842,0.9286,0.7879,0.7529,0.7649,RandomForestClassifier,6
+0.9561,0.9584,0.8421,0.8889,0.8649,0.8387,0.8391,RandomForestClassifier,7
+0.9211,0.9729,0.8421,0.7273,0.7805,0.7327,0.7356,RandomForestClassifier,8
+0.9298,0.969,0.6316,0.9231,0.75,0.7108,0.7282,RandomForestClassifier,9
+0.9448,0.9708,0.7905,0.874,0.826,0.7936,0.7976,RandomForestClassifier,Mean
+0.0125,0.012,0.0781,0.0539,0.0428,0.0493,0.0451,RandomForestClassifier,Std

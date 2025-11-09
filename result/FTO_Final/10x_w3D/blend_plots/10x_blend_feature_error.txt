@@ -1,0 +1,3 @@
+Plot Type: feature
+Model: Blended
+Error: Feature Importance and RFE plots not available for estimators that doesnt support coef_ or feature_importances_ attribute.

@@ -1,0 +1,17 @@
+﻿descriptors_filtered_FTO_training_5x_ignore3D_False.csv,descriptors_filtered_FTO_training_5x_ignore3D_True.csv,descriptors_filtered_FTO_training_10x_ignore3D_False.csv,descriptors_filtered_FTO_training_10x_ignore3D_True.csv,descriptors_filtered_FTO_training_20x_ignore3D_False.csv,descriptors_filtered_FTO_training_20x_ignore3D_True.csv
+ATSC4c,ATSC7dv,ATSC7dv,ATSC7dv,ATSC6p,ATSC6p
+ATSC6Z,ATSC6Z,ATSC6p,ATSC6p,ATSC8i,ATSC8i
+ATSC8i,ATSC8i,ATSC8i,ATSC8i,MATS2c,MATS2c
+MATS2c,MATS2c,MATS2c,MATS2c,MATS1p,MATS1p
+MATS1dv,MATS1p,MATS1p,MATS1p,FPSA3,AXp-1dv
+MATS1p,RNCG,FPSA3,RPCG,RPCG,NddsN
+FPSA3,AXp-1dv,AXp-1dv,AXp-1dv,AXp-1dv,SdNH
+RNCG,NddsN,NddsN,NddsN,NddsN,SMR_VSA4
+AXp-1dv,NaasN,SdNH,SdNH,SdNH,n4Ring
+NddsN,SdNH,GeomShapeIndex,SMR_VSA4,GeomShapeIndex,JGI4
+SdNH,SMR_VSA4,SMR_VSA4,n4Ring,SMR_VSA4,JGI8
+GeomShapeIndex,n4Ring,n4Ring,JGI4,n4Ring,
+SMR_VSA4,n10FARing,n8FRing,JGI8,JGI8,
+n4Ring,JGI1,n10FARing,JGI10,SRW05,
+n10FARing,JGI8,JGI4,,,
+JGI8,JGI10,JGI8,,,

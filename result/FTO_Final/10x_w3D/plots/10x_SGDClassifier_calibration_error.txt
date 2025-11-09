@@ -1,0 +1,3 @@
+Plot Type: calibration
+Model: SGDClassifier
+Error: Calibration plot not available for estimators with no predict_proba attribute.

@@ -1,0 +1,13 @@
+Accuracy,AUC,Recall,Prec.,F1,Kappa,MCC,Model,Type
+0.985,0.9956,0.8421,0.8421,0.8421,0.8342,0.8342,GradientBoostingClassifier,0
+0.9825,0.991,0.6316,1.0,0.7742,0.7656,0.7875,GradientBoostingClassifier,1
+0.9825,0.9899,0.7895,0.8333,0.8108,0.8016,0.802,GradientBoostingClassifier,2
+0.9825,0.8873,0.6842,0.9286,0.7879,0.779,0.7889,GradientBoostingClassifier,3
+0.995,0.9988,0.9474,0.9474,0.9474,0.9447,0.9447,GradientBoostingClassifier,4
+0.985,0.9884,0.7895,0.8824,0.8333,0.8255,0.8269,GradientBoostingClassifier,5
+0.9799,0.936,0.7368,0.8235,0.7778,0.7673,0.7686,GradientBoostingClassifier,6
+0.9825,0.9748,0.8421,0.8,0.8205,0.8113,0.8116,GradientBoostingClassifier,7
+0.9875,0.9843,0.8421,0.8889,0.8649,0.8583,0.8586,GradientBoostingClassifier,8
+0.985,0.9949,0.7895,0.8824,0.8333,0.8255,0.8269,GradientBoostingClassifier,9
+0.9847,0.9741,0.7895,0.8829,0.8292,0.8213,0.825,GradientBoostingClassifier,Mean
+0.004,0.0337,0.0849,0.0587,0.0482,0.0501,0.0471,GradientBoostingClassifier,Std
