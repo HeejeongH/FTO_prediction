@@ -1,15 +1,3 @@
-Ratio,Model,Accuracy,AUC,Recall,Prec.,F1,Kappa,MCC
-5x,LogisticRegression,0.817,0.831,0.702,0.769,0.732,0.708,0.710
-,ExtraTreesClassifier,0.816,0.819,0.710,0.756,0.730,0.706,0.707
-,GradientBoostingClassifier,0.818,0.827,0.709,0.768,0.735,0.712,0.713
-,LGBMClassifier,0.813,0.820,0.690,0.755,0.719,0.692,0.694
-,SGDClassifier,0.818,0.829,0.722,0.759,0.737,0.714,0.715
-,RandomForestClassifier,0.810,0.815,0.679,0.744,0.709,0.680,0.682
-,AdaBoostClassifier,0.806,0.819,0.702,0.705,0.703,0.672,0.672
-10x,LogisticRegression,0.834,0.834,0.727,0.739,0.730,0.717,0.718
-,ExtraTreesClassifier,0.832,0.835,0.680,0.746,0.710,0.696,0.697
-,GradientBoostingClassifier,0.833,0.837,0.691,0.768,0.719,0.707,0.710
-,LGBMClassifier,0.832,0.831,0.676,0.759,0.712,0.699,0.701
-,SGDClassifier,0.833,0.833,0.750,0.716,0.730,0.717,0.718
-,RandomForestClassifier,0.827,0.834,0.621,0.748,0.674,0.658,0.662
-,AdaBoostClassifier,0.827,0.827,0.678,0.698,0.687,0.671,0.671
+version https://git-lfs.github.com/spec/v1
+oid sha256:724a091e79b043ec35844e1eca329ce162e8e335bb404df827c7e5f4f33e14e5
+size 947

@@ -1,13 +1,3 @@
-Accuracy,AUC,Recall,Prec.,F1,Kappa,MCC,Model,Type
-0.8831,0.9211,0.65,0.8667,0.7429,0.6692,0.6808,RandomForestClassifier,0
-0.9342,0.9797,0.8421,0.8889,0.8649,0.8214,0.822,RandomForestClassifier,1
-0.8816,0.9511,0.6316,0.8571,0.7273,0.6538,0.6663,RandomForestClassifier,2
-0.8684,0.9261,0.6316,0.8,0.7059,0.6226,0.6299,RandomForestClassifier,3
-0.9211,0.988,0.8421,0.8421,0.8421,0.7895,0.7895,RandomForestClassifier,4
-0.9211,0.964,0.8421,0.8421,0.8421,0.7895,0.7895,RandomForestClassifier,5
-0.9342,0.9898,0.8421,0.8889,0.8649,0.8214,0.822,RandomForestClassifier,6
-0.9079,0.9548,0.7368,0.875,0.8,0.7407,0.7454,RandomForestClassifier,7
-0.9737,0.9935,0.8947,1.0,0.9444,0.9273,0.9297,RandomForestClassifier,8
-0.9079,0.9464,0.7895,0.8333,0.8108,0.75,0.7505,RandomForestClassifier,9
-0.9133,0.9614,0.7703,0.8694,0.8145,0.7586,0.7625,RandomForestClassifier,Mean
-0.0294,0.0248,0.0952,0.0506,0.0695,0.0872,0.0839,RandomForestClassifier,Std
+version https://git-lfs.github.com/spec/v1
+oid sha256:95f8917ad35dffd74b6ae35803ede1feb9d74ba1d4db409ae0b4c8c3a9afc216
+size 938

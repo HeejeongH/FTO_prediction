@@ -1,13 +1,3 @@
-Accuracy,AUC,Recall,Prec.,F1,Kappa,MCC,Model,Type
-0.9714,0.9799,0.7895,0.8824,0.8333,0.8178,0.8193,GradientBoostingClassifier,0
-0.981,0.9366,0.8947,0.8947,0.8947,0.8843,0.8843,GradientBoostingClassifier,1
-0.9667,0.9829,0.8947,0.7727,0.8293,0.8109,0.8136,GradientBoostingClassifier,2
-0.9761,0.9465,0.7895,0.9375,0.8571,0.8442,0.8479,GradientBoostingClassifier,3
-0.9713,0.9889,0.8421,0.8421,0.8421,0.8263,0.8263,GradientBoostingClassifier,4
-0.9665,0.9867,0.6316,1.0,0.7742,0.7571,0.7805,GradientBoostingClassifier,5
-0.9617,0.9571,0.7368,0.8235,0.7778,0.7569,0.7583,GradientBoostingClassifier,6
-0.9761,0.9967,0.8421,0.8889,0.8649,0.8518,0.8521,GradientBoostingClassifier,7
-0.9761,0.992,0.8421,0.8889,0.8649,0.8518,0.8521,GradientBoostingClassifier,8
-0.9522,0.969,0.6316,0.8,0.7059,0.6802,0.6859,GradientBoostingClassifier,9
-0.9699,0.9736,0.7895,0.8731,0.8244,0.8081,0.812,GradientBoostingClassifier,Mean
-0.008,0.0195,0.0912,0.0634,0.0533,0.0574,0.0546,GradientBoostingClassifier,Std
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba92c595aa169d773aba346f0de3caec3e3a4c7bf1e2df9bed3f19a4e9dc769b
+size 993

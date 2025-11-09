@@ -1,13 +1,3 @@
-Accuracy,AUC,Recall,Prec.,F1,Kappa,MCC,Model,Type
-0.985,0.988,0.8421,0.8421,0.8421,0.8342,0.8342,ExtraTreesClassifier,0
-0.9825,0.9631,0.6842,0.9286,0.7879,0.779,0.7889,ExtraTreesClassifier,1
-0.98,0.9736,0.7895,0.7895,0.7895,0.779,0.779,ExtraTreesClassifier,2
-0.98,0.9514,0.6842,0.8667,0.7647,0.7544,0.7602,ExtraTreesClassifier,3
-0.99,0.9982,0.9474,0.8571,0.9,0.8948,0.896,ExtraTreesClassifier,4
-0.9875,0.9917,0.8421,0.8889,0.8649,0.8583,0.8587,ExtraTreesClassifier,5
-0.9774,0.9507,0.7368,0.7778,0.7568,0.7449,0.7452,ExtraTreesClassifier,6
-0.9799,0.9856,0.7895,0.7895,0.7895,0.7789,0.7789,ExtraTreesClassifier,7
-0.9799,0.9845,0.8421,0.7619,0.8,0.7895,0.7906,ExtraTreesClassifier,8
-0.9875,0.9888,0.8421,0.8889,0.8649,0.8583,0.8586,ExtraTreesClassifier,9
-0.983,0.9776,0.8,0.8391,0.816,0.8071,0.809,ExtraTreesClassifier,Mean
-0.004,0.0161,0.0774,0.0536,0.0459,0.0479,0.047,ExtraTreesClassifier,Std
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a34925ed66b3113a29b1936da089295ebb4ee1d128ee28086bd5acaf74115b1
+size 906
